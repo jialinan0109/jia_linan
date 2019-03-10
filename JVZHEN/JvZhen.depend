@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1552206202 source:c:\users\jln\desktop\c++\新建文件夹\jvzhen\main.cpp
+	<iostream>
+	<JVZHEN.h>
+
+1552205991 c:\users\jln\desktop\c++\新建文件夹\jvzhen\include\jvzhen.h
+	<iostream>
+	<string>
+
+1552206109 source:c:\users\jln\desktop\c++\新建文件夹\jvzhen\src\jvzhen.cpp
+	"JvZhen.h"
+	<iomanip>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554030464 source:c:\users\jln\desktop\c++\新建文件夹\11.11\main.cpp
+	<iostream>
+	"Polynomial.h"
+
+1554030464 c:\users\jln\desktop\c++\新建文件夹\11.11\include\polynomial.h
+
+1554030470 source:c:\users\jln\desktop\c++\新建文件夹\11.11\src\polynomial.cpp
+	<iostream>
+	<iomanip>
+	"Polynomial.h"
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1554532463 source:c:\users\jiaoy\desktop\11.10.1\main.cpp
+	<iostream>
+	"Account.h"
+	"SavingsAccount.h"
+
+1554522041 c:\users\jiaoy\desktop\11.10.1\include\account.h
+	<iostream>
+
+1554522075 source:c:\users\jiaoy\desktop\11.10.1\src\account.cpp
+	"Account.h"
+	<iostream>
+
+1554532094 source:c:\users\jiaoy\desktop\11.10.1\src\savingsaccount.cpp
+	"SavingsAccount.h"
+	"Account.h"
+	<iostream>
+
+1554531984 c:\users\jiaoy\desktop\11.10.1\include\savingsaccount.h
+	"Account.h"
+	<iostream>
+
+1554532386 source:c:\users\jiaoy\desktop\11.10.1\src\checkingaccount.cpp
+
+1554532463 source:c:\users\jiaoy\desktop\11.10\main.cpp
+	<iostream>
+	"Account.h"
+	"SavingsAccount.h"
+
+1554630210 c:\users\jiaoy\desktop\11.10\include\account.h
+	<iostream>
+
+1554531984 c:\users\jiaoy\desktop\11.10\include\savingsaccount.h
+	"Account.h"
+	<iostream>
+
+1554630210 source:c:\users\jiaoy\desktop\11.10\src\account.cpp
+	"Account.h"
+	<iostream>
+
+1554532094 source:c:\users\jiaoy\desktop\11.10\src\savingsaccount.cpp
+	"SavingsAccount.h"
+	"Account.h"
+	<iostream>
+
+1554630367 source:c:\users\jiaoy\desktop\11.10\src\checkingaccount.cpp
+	<iostream>
+	"Account.h"
+	"CheckingAccount.h"
+
+1554630329 c:\users\jiaoy\desktop\11.10\include\checkingaccount.h
+	"Account.h"
+
